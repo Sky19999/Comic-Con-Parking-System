@@ -237,7 +237,5 @@ parking_tickets      ||--o{   payments              : linked to
 > The ER diagram is included in this repository as:
 
  <p align="center">
-  <img src="Comic-COn Parking System.png" width="800"/>
+  <img src="Comic-Con Parking System.png" width="800"/>
 </p>
-
----
